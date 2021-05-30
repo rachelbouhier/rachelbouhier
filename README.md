@@ -1,14 +1,13 @@
-# <img src="https://media.giphy.com/media/dkQ1CRCVHUaBi/giphy.gif" width="50"> Hi there ! I'm Rachel, it's nice to meet you <img src="https://media.giphy.com/media/dkQ1CRCVHUaBi/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="400">
+# <img src="https://media.giphy.com/media/dkQ1CRCVHUaBi/giphy.gif" width="50"> Welcome to my Github, I'm Rachel <img src="https://media.giphy.com/media/dkQ1CRCVHUaBi/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif" width="400">
 
 
-BIO IN PROGRESS, BE PATIENT ! 
-
-- 👋 Hi, I’m @rachelbouhier
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👩‍💻 I’m a junior developer who loves everything that sparkles and delicious cakes ! (and promise I always share what I bake).
+- 💃 I love dancing on disco music, I sew in my spare time and I love trying out new restaurants and bars in Paris ! 
+- 💪 I'm a feminist who deeply believes that we need more diversity in the tech industry. If you think so too then we'll get along nicely.
+- 🌱 I’m currently learning to code (so far in HTML, CSS, Javascript, PHP) at <a href="https://adatechschool.fr/"> Ada Tech School</a>.
+- 💞️ I’m looking for an apprenticeship in Paris starting September 2021 (1 year contract, 4 days at the company, 1 day in school).
+- 📫 You can send me a message <a href="https://www.linkedin.com/in/rachel-bouhier/">on Linkedin</a>.
 
 <!---
 rachelbouhier/rachelbouhier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
