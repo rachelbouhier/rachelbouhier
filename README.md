@@ -10,7 +10,7 @@
 
 - 💪 I'm a feminist who deeply believes that we need more diversity in the tech industry. If you think so too then we'll get along nicely.
 
-- 🌱 I’m currently learning to code (so far in HTML, CSS, Javascript, PHP) at <a href="https://adatechschool.fr/"> Ada Tech School</a>.
+- 🌱 I’m currently learning to code (so far in HTML, CSS, Javascript, Python, PHP) at <a href="https://adatechschool.fr/"> Ada Tech School</a>.
 
 - 💞️ I’m looking for an apprenticeship as a fullstack or frontend developer in Paris starting September 2021 (1 year contract, 4 days at the company, 1 day in school).
 
