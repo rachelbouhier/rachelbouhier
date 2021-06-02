@@ -4,6 +4,8 @@
 
 - 👩‍💻 I’m a junior developer who loves everything that sparkles and delicious cakes ! (and promise I always share what I bake).
 
+- 🐣 In my previous life, I studied Translation and Communication (I'm trilingual: French, English and German) and I worked in Digital Marketing in the Fashion industry.
+
 - 💃 I love dancing to disco music, I sew in my spare time and I love trying out new restaurants and bars in Paris ! 
 
 - 💪 I'm a feminist who deeply believes that we need more diversity in the tech industry. If you think so too then we'll get along nicely.
